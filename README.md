@@ -2,8 +2,8 @@
 
 I'm a _Frontend developer_ at [Oslo Origo](https://labs.oslo.kommune.no/).
 
-- ✅ 26 years experience as a Web Developer
-- ✅ Long experience as _team lead_, _tech lead_, _solution architect_, _subject manager_
+- ✅ 25+ years experience as a Web Developer
+- ✅ Long experience as `team lead`, `tech lead`, `solution architect`, `subject manager`
 - ✅ Worked both inhouse and as a consultant. Prefer inhouse 😊
 - ✅ Love to code
 - ✅ Team work 💝
