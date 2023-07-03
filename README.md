@@ -41,17 +41,17 @@ I'm a _Frontend developer_ at [Oslo Origo](https://labs.oslo.kommune.no/).
 <a href="#"><img src="https://img.shields.io/badge/vs_code-visualstudiocode?logo=visualstudiocode&style=for-the-badge&color=5C2D91&logoColor=fff" alt="vs code" /></a>
 
 ## Current focus
+<a href="#"><img src="https://img.shields.io/badge/vue.js-vuejs?logo=vue.js&style=for-the-badge&color=4FC08D&logoColor=fff" alt="vue.js" /></a>
+<a href="#"><img src="https://img.shields.io/badge/vite.js-vite?logo=vite&style=for-the-badge&color=646CFF&logoColor=fff" alt="vite.js" /></a>
+<a href="#"><img src="https://img.shields.io/badge/microsoft_azure-microsoftazure?logo=microsoftazure&style=for-the-badge&color=0078D4&logoColor=fff" alt="microsoft azure" /></a>
+<a href="#"><img src="https://img.shields.io/badge/pwa-pwa?logo=pwa&style=for-the-badge&color=5A0FC8&logoColor=fff" alt="progressive web apps" /></a>
+
+## Past experience
 <a href="#"><img src="https://img.shields.io/badge/design_systems-web?style=for-the-badge&color=2a2859" alt="design systems" /></a>
 <a href="#"><img src="https://img.shields.io/badge/wcag-web?style=for-the-badge&color=005A9C" alt="wcag" /></a>
 <a href="#"><img src="https://img.shields.io/badge/astro.js-astro?logo=astro&style=for-the-badge&color=FF5D01&logoColor=fff" alt="astro.js" /></a>
 <a href="#"><img src="https://img.shields.io/badge/lerna.js-web?logo=lerna&style=for-the-badge&color=9333EA&logoColor=fff" alt="lerna.js" /></a>
 <a href="#"><img src="https://img.shields.io/badge/stackblitz-stackblitz?logo=stackblitz&style=for-the-badge&color=1269D3&logoColor=fff" alt="stackblitz" /></a>
-<a href="#"><img src="https://img.shields.io/badge/vite.js-vite?logo=vite&style=for-the-badge&color=646CFF&logoColor=fff" alt="vite.js" /></a>
-<a href="#"><img src="https://img.shields.io/badge/vue.js-vuejs?logo=vue.js&style=for-the-badge&color=4FC08D&logoColor=fff" alt="vue.js" /></a>
-<a href="#"><img src="https://img.shields.io/badge/microsoft_azure-microsoftazure?logo=microsoftazure&style=for-the-badge&color=0078D4&logoColor=fff" alt="microsoft azure" /></a>
-<a href="#"><img src="https://img.shields.io/badge/pwa-pwa?logo=pwa&style=for-the-badge&color=5A0FC8&logoColor=fff" alt="progressive web apps" /></a>
-
-## Past experience
 <a href="#"><img src="https://img.shields.io/badge/contentful_cms-contentful?logo=contentful&style=for-the-badge&color=2478CC&logoColor=fff" alt="contentful cms" /></a>
 <a href="#"><img src="https://img.shields.io/badge/docker-docker?logo=docker&style=for-the-badge&color=2496ED&logoColor=fff" alt="docker" /></a>
 <a href="#"><img src="https://img.shields.io/badge/graphql-graphql?logo=graphql&style=for-the-badge&color=E10098&logoColor=fff" alt="graphql" /></a>
