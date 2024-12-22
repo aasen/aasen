@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ole
 
-I'm a _Frontend developer_ at [Oslo Origo](https://labs.oslo.kommune.no/).
+I'm a _Web developer_ at [iFlow AS](https://www.iflow.no/).
 
 - ✅ 25+ years experience as a Web Developer
 - ✅ Long experience as `team lead`, `tech lead`, `solution architect`, `subject manager`
