@@ -29,7 +29,6 @@ I'm a _Web developer_ at [iFlow AS](https://www.iflow.no/).
 <a href="#"><img src="https://img.shields.io/badge/svg-svg?logo=svg&style=for-the-badge&color=FFB13B&logoColor=000" alt="svg" /></a>
 
 ## Tools & Technologies
-<a href="#"><img src="https://img.shields.io/badge/amazon_web_services-amazon?logo=amazonaws&style=for-the-badge&color=232F3E&logoColor=fff" alt="aws" /></a>
 <a href="#"><img src="https://img.shields.io/badge/git-git?logo=git&style=for-the-badge&color=F05032&logoColor=fff" alt="git" /></a>
 <a href="#"><img src="https://img.shields.io/badge/github-github?logo=github&style=for-the-badge&color=181717&logoColor=fff" alt="github" /></a>
 <a href="#"><img src="https://img.shields.io/badge/github_actions-githubactions?logo=githubactions&style=for-the-badge&color=2088FF&logoColor=fff" alt="github actions" /></a>
@@ -37,16 +36,20 @@ I'm a _Web developer_ at [iFlow AS](https://www.iflow.no/).
 <a href="#"><img src="https://img.shields.io/badge/npm-npm?logo=npm&style=for-the-badge&color=CB3837&logoColor=fff" alt="npm" /></a>
 <a href="#"><img src="https://img.shields.io/badge/terminal-iterm2?logo=iterm2&style=for-the-badge&color=000&logoColor=fff" alt="terminal" /></a>
 <a href="#"><img src="https://img.shields.io/badge/figma-figma?logo=figma&style=for-the-badge&color=F24E1E&logoColor=fff" alt="figma" /></a>
-<a href="#"><img src="https://img.shields.io/badge/firefox-firefox?logo=firefox&style=for-the-badge&color=FF7139&logoColor=fff" alt="firefox" /></a>
-<a href="#"><img src="https://img.shields.io/badge/vs_code-visualstudiocode?logo=visualstudiocode&style=for-the-badge&color=5C2D91&logoColor=fff" alt="vs code" /></a>
+<a href="#"><img src="https://img.shields.io/badge/webstorm-webstorm?logo=webstorm&style=for-the-badge&color=000000&logoColor=fff" alt="Jetbrains Webstorm" /></a>
+<a href="#"><img src="https://img.shields.io/badge/jira-jira?logo=jirasoftware&style=for-the-badge&color=0052CC&logoColor=fff" alt="Jira" /></a>
+
 
 ## Current focus
 <a href="#"><img src="https://img.shields.io/badge/vue.js-vuejs?logo=vue.js&style=for-the-badge&color=4FC08D&logoColor=fff" alt="vue.js" /></a>
 <a href="#"><img src="https://img.shields.io/badge/vite.js-vite?logo=vite&style=for-the-badge&color=646CFF&logoColor=fff" alt="vite.js" /></a>
 <a href="#"><img src="https://img.shields.io/badge/microsoft_azure-microsoftazure?logo=microsoftazure&style=for-the-badge&color=0078D4&logoColor=fff" alt="microsoft azure" /></a>
 <a href="#"><img src="https://img.shields.io/badge/pwa-pwa?logo=pwa&style=for-the-badge&color=5A0FC8&logoColor=fff" alt="progressive web apps" /></a>
+<a href="#"><img src="https://img.shields.io/badge/capacitor-capacitor?logo=capacitor&style=for-the-badge&color=119EFF&logoColor=fff" alt="capacitor" /></a>
+<a href="#"><img src="https://img.shields.io/badge/electron-electron?logo=electron&style=for-the-badge&color=47848F&logoColor=fff" alt="electron" /></a>
 
 ## Past experience
+<a href="#"><img src="https://img.shields.io/badge/amazon_web_services-amazon?logo=amazonaws&style=for-the-badge&color=232F3E&logoColor=fff" alt="aws" /></a>
 <a href="#"><img src="https://img.shields.io/badge/design_systems-web?style=for-the-badge&color=2a2859" alt="design systems" /></a>
 <a href="#"><img src="https://img.shields.io/badge/wcag-web?style=for-the-badge&color=005A9C" alt="wcag" /></a>
 <a href="#"><img src="https://img.shields.io/badge/astro.js-astro?logo=astro&style=for-the-badge&color=FF5D01&logoColor=fff" alt="astro.js" /></a>
@@ -61,5 +64,5 @@ I'm a _Web developer_ at [iFlow AS](https://www.iflow.no/).
 <a href="#"><img src="https://img.shields.io/badge/storyblok_cms-storyblok?logo=storyblok&style=for-the-badge&color=09B3AF&logoColor=fff" alt="storyblok cms" /></a>
 <a href="#"><img src="https://img.shields.io/badge/webpack-webpack?logo=webpack&style=for-the-badge&color=8DD6F9&logoColor=000" alt="Webpack" /></a>
 <a href="#"><img src="https://img.shields.io/badge/okr-web?style=for-the-badge&color=FF9A00" alt="OKR - Objectives and Key Results" /></a>
-
+<a href="#"><img src="https://img.shields.io/badge/vs_code-visualstudiocode?logo=visualstudiocode&style=for-the-badge&color=5C2D91&logoColor=fff" alt="vs code" /></a>
 
